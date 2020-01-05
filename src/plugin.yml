@@ -5,4 +5,4 @@ author: Ste3et_C0st
 website: http://dicecraft.de
 depend: [FurnitureLib]
 main: de.Ste3et_C0st.Furniture.Main.main
-api-version: 1.13
+api-version: 1.15
